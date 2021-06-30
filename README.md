@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @renjithkathirolil
 - 👀 I’m interested in design solutions
-- 🌱 I’m currently learning service mesh
+- 🌱 Learning service mesh
 - 💞️ I’m looking to collaborate on new technologies 
 - 📫 How to reach me i.renjith@hotmail.com
 
